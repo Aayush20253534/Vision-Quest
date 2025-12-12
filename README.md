@@ -1,13 +1,5 @@
-# Vision Quest: Drone Classifier
+# ▋▉▓ VISION QUEST ▓▉▋
 
- __     ___ ____ ___ ____ _   _   ____  _   _ _____ ____ _____ 
- \ \   / (_) __ )_ _/ ___| \ | | / __ \| \ | | ____/ ___|_   _|
-  \ \ / / |  _ \| | |   |  \| | | / _` |  \| |  _| \___ \ | |  
-   \ V /  | |_) | | |___| |\  | | | (_| | |\  | |___ ___) || |  
-    \_/   |____/___\____|_| \_|  \ \__,_|_| \_|_____|____/ |_|  
-                                            \____/              
-
-   
 
 ![Banner](https://img.shields.io/badge/AI-Vision%20Quest-blueviolet?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10-yellow?style=for-the-badge)
